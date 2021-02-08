@@ -12,7 +12,6 @@
 
 ### App Walkthrough GIF
 <img src='https://imgur.com/c5NvxBm.gif' width=250><br>
-<img src="https://imgur.com/c5NvxBm.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 The biggest challenge was understanding how to work with an API
